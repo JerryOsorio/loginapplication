@@ -11,12 +11,9 @@ import retrofit2.http.Path;
  * Created by jerry on 6/20/17.
  */
 
-public interface GiHubUserEndPoints {
+public interface GitHubUserEndPoints {
 
     @GET("/users/{user}")
     Call<GitHubUser> getUser(@Path("user") String user);
-
-
-
 
 }
