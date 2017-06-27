@@ -53,8 +53,8 @@ public class UserActivity extends AppCompatActivity{
 
     }
 
-    public void loadOwnRepos(View view ){
-        Intent i = new Intent(UserActivity.class, Repositories.class);
+    public void loadOwnRepos(View view){
+        Intent i = new Intent(UserActivity.this, Repositories.class);
         i.putExtra("username",newString);
         startActivity(i);
     }

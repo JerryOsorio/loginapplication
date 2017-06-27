@@ -10,6 +10,8 @@ import android.support.v7.widget.RecyclerView;
 
 import com.example.jerry.loginapplication.R;
 
+import java.util.List;
+
 /**
  * Created by jerry on 6/26/17.
  */
