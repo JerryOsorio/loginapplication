@@ -1,4 +1,4 @@
-package com.example.jerry.loginapplication.activity.model;
+package com.example.jerry.loginapplication.model;
 
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;

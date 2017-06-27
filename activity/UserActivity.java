@@ -10,7 +10,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.example.jerry.loginapplication.R;
-import com.example.jerry.loginapplication.activity.model.ImageDownloader;
+import com.example.jerry.loginapplication.model.ImageDownloader;
 import com.example.jerry.loginapplication.model.GitHubUser;
 import com.example.jerry.loginapplication.rest.APIClient;
 import com.example.jerry.loginapplication.rest.GitHubUserEndPoints;
